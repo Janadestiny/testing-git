@@ -1,2 +1,7 @@
 well this' my first file. And I'm editing it.
+<<<<<<< Updated upstream
 This' where it all begin ehe.
+=======
+This' where it all begin.
+Third line.
+>>>>>>> Stashed changes
